@@ -77,9 +77,4 @@ var_dump($person->getCount());
 $anotherPerson = new Person();
 var_dump($anotherPerson->getCount());
 
-
-
-
-
-?>
 ?>
